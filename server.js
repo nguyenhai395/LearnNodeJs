@@ -6,6 +6,7 @@ res.write(' Hello HarryNguyen') ;
 res.write(' With from NodeJS');
 res.end()
 
+//nothing
 })
 
 server.listen(3000,'localhost',() =>{
